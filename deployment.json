@@ -1,0 +1,418 @@
+{
+  "edition": "heidelberg-52-20261021-v1-GTstudy",
+  "version": "1.0.0",
+  "checked_utc": "2026-10-21T15:14:35.463807+00:00",
+  "repository": "https://github.com/07-Je-GT-Love-Personal-20260918/heidelberg-52-20261021-v1-GTstudy",
+  "urls": {
+    "githubPages": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/",
+    "surge": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/",
+    "vercel": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/"
+  },
+  "results": [
+    {
+      "platform": "githubPages",
+      "file": "index.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/index.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "7820e3c9a08405cd27973c868291e58d1550b562229fc0994762dbc81469e1cd"
+    },
+    {
+      "platform": "githubPages",
+      "file": "day-01.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/day-01.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "95efe8d15e082358ec7ebd2c1439315f9272b214fc7a395f44a7761f67e609ee"
+    },
+    {
+      "platform": "githubPages",
+      "file": "day-27.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/day-27.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "d0211e990a7b13da39062184534360a9ca3d526767403463a106bd2a7a32196c"
+    },
+    {
+      "platform": "githubPages",
+      "file": "day-52.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/day-52.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "079beeddd1657c3e901e9a3a1bff014cc79c1965bb5afe71f62707a62bdcfa3e"
+    },
+    {
+      "platform": "githubPages",
+      "file": "reader-apostles.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/reader-apostles.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "084dedbb2b7fd93948379e0e2babf29d74c20954b3c5e7bb6aa0564e1fc17d76"
+    },
+    {
+      "platform": "githubPages",
+      "file": "reader-nicene.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/reader-nicene.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "cc53f3aaa8693c34dc791bd253fe2bc93d1b72ad93013f5d50e0b58da0692fb2"
+    },
+    {
+      "platform": "githubPages",
+      "file": "reader-athanasian.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/reader-athanasian.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "2e6dec9031038d1cbd60ba104c2ef2df2a5fe207bba6b73121540dc85a4bfb73"
+    },
+    {
+      "platform": "githubPages",
+      "file": "library.html",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/library.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "82453a620608e57db95435d88332516856bd894a1619df5a3dc5c2f605998529"
+    },
+    {
+      "platform": "githubPages",
+      "file": "style.css",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/style.css",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "66c89acb3beb285e41a83b7628d245f8ff3e5f896215f034080aa4e0d55d2ca9"
+    },
+    {
+      "platform": "githubPages",
+      "file": "app.js",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/app.js",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "819a6083a6b91945ed30d724931eeb01a690e5e3b22b20e09e0b896959e8d3e0"
+    },
+    {
+      "platform": "githubPages",
+      "file": "fulltexts.json",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/fulltexts.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "39f7ffac9c1111b48009df6630db2d18e141931ad223c58c9c2239ab48531487"
+    },
+    {
+      "platform": "githubPages",
+      "file": "source-audit.json",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/source-audit.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "7722c44f5871ef6032e400d30e9a3ae58489c2e3581fef037c94ca4e9d4eb404"
+    },
+    {
+      "platform": "githubPages",
+      "file": "places.json",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/places.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "f17bc90fafabd1c6edda2cfef4fbdf58df0ff265e01d58f2ee59d62ed7e48247"
+    },
+    {
+      "platform": "githubPages",
+      "file": "creeds.json",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/creeds.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "dced46f39bc57f17a351bd94d47cd02dfe30b315b33caa46d9094c997a4eb9b5"
+    },
+    {
+      "platform": "githubPages",
+      "file": "lessons.json",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/lessons.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "9a48fd3438c28540c523831ba2e9b7e8f0eae2096ee36179766a9891068f28bb"
+    },
+    {
+      "platform": "githubPages",
+      "file": "journey.svg",
+      "url": "https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/journey.svg",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "ec07d59769d00fb8679d2f7ce57b4ddc6f9935fa113e0f23fc00bc9066a7c8d2"
+    },
+    {
+      "platform": "surge",
+      "file": "index.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/index.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "de74c500b2e61cbee12d4e37e06f496b43d70ae37ca5e3d2ac3c16f06974f239"
+    },
+    {
+      "platform": "surge",
+      "file": "day-01.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/day-01.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "35995545dd184a380e76dca034e1d2dd2a04e3de2a15fac611d37eebf911b62a"
+    },
+    {
+      "platform": "surge",
+      "file": "day-27.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/day-27.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "7e94364e9df0c6fa76d1f1e83dba1fc6f1ab6a7b8a707f64ca3bd165ba4db81d"
+    },
+    {
+      "platform": "surge",
+      "file": "day-52.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/day-52.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "db5a9a76b8d97a60fb3224653c77fd4a85451e5b9854c599d0ab409493a8a3c9"
+    },
+    {
+      "platform": "surge",
+      "file": "reader-apostles.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/reader-apostles.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "fdda0f1deafe805c63c066e40e60195175abc88927e881ff170c517b40eddc71"
+    },
+    {
+      "platform": "surge",
+      "file": "reader-nicene.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/reader-nicene.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "165aeb46e0ccb0d6fba90c2e401434bd63be35367e9ab56a2636c27b6d997011"
+    },
+    {
+      "platform": "surge",
+      "file": "reader-athanasian.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/reader-athanasian.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "790f151f78cc50275b754a0c5069302fd53c6743eba6cecad6db61e7d8d3cb16"
+    },
+    {
+      "platform": "surge",
+      "file": "library.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/library.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "f5db508ba1b12746809859243afa6ecde4b3329d41892e893e1d61dbfc237698"
+    },
+    {
+      "platform": "surge",
+      "file": "style.css",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/style.css",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "66c89acb3beb285e41a83b7628d245f8ff3e5f896215f034080aa4e0d55d2ca9"
+    },
+    {
+      "platform": "surge",
+      "file": "app.js",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/app.js",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "819a6083a6b91945ed30d724931eeb01a690e5e3b22b20e09e0b896959e8d3e0"
+    },
+    {
+      "platform": "surge",
+      "file": "fulltexts.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/fulltexts.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "1a1a2f9a3d79dc0f08e38ea53826b87c5aa65e3423dd20ab9ba66826f604f1f0"
+    },
+    {
+      "platform": "surge",
+      "file": "source-audit.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/source-audit.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "9be27df16f6b165ab8a5e9ae7ed8eadfd3dd46b65ededd140fd09dfa9a63773d"
+    },
+    {
+      "platform": "surge",
+      "file": "places.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/places.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "f17bc90fafabd1c6edda2cfef4fbdf58df0ff265e01d58f2ee59d62ed7e48247"
+    },
+    {
+      "platform": "surge",
+      "file": "creeds.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/creeds.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "dced46f39bc57f17a351bd94d47cd02dfe30b315b33caa46d9094c997a4eb9b5"
+    },
+    {
+      "platform": "surge",
+      "file": "lessons.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/lessons.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "9a48fd3438c28540c523831ba2e9b7e8f0eae2096ee36179766a9891068f28bb"
+    },
+    {
+      "platform": "surge",
+      "file": "journey.svg",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.surge.sh/journey.svg",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "ec07d59769d00fb8679d2f7ce57b4ddc6f9935fa113e0f23fc00bc9066a7c8d2"
+    },
+    {
+      "platform": "vercel",
+      "file": "index.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/index.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "7820e3c9a08405cd27973c868291e58d1550b562229fc0994762dbc81469e1cd"
+    },
+    {
+      "platform": "vercel",
+      "file": "day-01.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/day-01.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "95efe8d15e082358ec7ebd2c1439315f9272b214fc7a395f44a7761f67e609ee"
+    },
+    {
+      "platform": "vercel",
+      "file": "day-27.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/day-27.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "d0211e990a7b13da39062184534360a9ca3d526767403463a106bd2a7a32196c"
+    },
+    {
+      "platform": "vercel",
+      "file": "day-52.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/day-52.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "079beeddd1657c3e901e9a3a1bff014cc79c1965bb5afe71f62707a62bdcfa3e"
+    },
+    {
+      "platform": "vercel",
+      "file": "reader-apostles.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/reader-apostles.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "084dedbb2b7fd93948379e0e2babf29d74c20954b3c5e7bb6aa0564e1fc17d76"
+    },
+    {
+      "platform": "vercel",
+      "file": "reader-nicene.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/reader-nicene.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "cc53f3aaa8693c34dc791bd253fe2bc93d1b72ad93013f5d50e0b58da0692fb2"
+    },
+    {
+      "platform": "vercel",
+      "file": "reader-athanasian.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/reader-athanasian.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "2e6dec9031038d1cbd60ba104c2ef2df2a5fe207bba6b73121540dc85a4bfb73"
+    },
+    {
+      "platform": "vercel",
+      "file": "library.html",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/library.html",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "82453a620608e57db95435d88332516856bd894a1619df5a3dc5c2f605998529"
+    },
+    {
+      "platform": "vercel",
+      "file": "style.css",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/style.css",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "66c89acb3beb285e41a83b7628d245f8ff3e5f896215f034080aa4e0d55d2ca9"
+    },
+    {
+      "platform": "vercel",
+      "file": "app.js",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/app.js",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "819a6083a6b91945ed30d724931eeb01a690e5e3b22b20e09e0b896959e8d3e0"
+    },
+    {
+      "platform": "vercel",
+      "file": "fulltexts.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/fulltexts.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "1a1a2f9a3d79dc0f08e38ea53826b87c5aa65e3423dd20ab9ba66826f604f1f0"
+    },
+    {
+      "platform": "vercel",
+      "file": "source-audit.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/source-audit.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "9be27df16f6b165ab8a5e9ae7ed8eadfd3dd46b65ededd140fd09dfa9a63773d"
+    },
+    {
+      "platform": "vercel",
+      "file": "places.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/places.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "f17bc90fafabd1c6edda2cfef4fbdf58df0ff265e01d58f2ee59d62ed7e48247"
+    },
+    {
+      "platform": "vercel",
+      "file": "creeds.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/creeds.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "dced46f39bc57f17a351bd94d47cd02dfe30b315b33caa46d9094c997a4eb9b5"
+    },
+    {
+      "platform": "vercel",
+      "file": "lessons.json",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/lessons.json",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "9a48fd3438c28540c523831ba2e9b7e8f0eae2096ee36179766a9891068f28bb"
+    },
+    {
+      "platform": "vercel",
+      "file": "journey.svg",
+      "url": "https://heidelberg-52-20261021-v1-gtstudy.vercel.app/journey.svg",
+      "status": 200,
+      "matches_local": true,
+      "sha256": "ec07d59769d00fb8679d2f7ce57b4ddc6f9935fa113e0f23fc00bc9066a7c8d2"
+    }
+  ],
+  "summary": {
+    "githubPages": {
+      "checked": 16,
+      "ok": 16,
+      "matches_local": 16
+    },
+    "surge": {
+      "checked": 16,
+      "ok": 16,
+      "matches_local": 16
+    },
+    "vercel": {
+      "checked": 16,
+      "ok": 16,
+      "matches_local": 16
+    }
+  },
+  "limits": [
+    "CCI live recheck:227 of232 sections verified; three pages with five sections unavailable due TLS/timeout.",
+    "Vercel direct deployment succeeds; GitHub automatic project connection unavailable."
+  ]
+}

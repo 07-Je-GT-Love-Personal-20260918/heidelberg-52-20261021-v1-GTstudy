@@ -8,7 +8,7 @@
 
 | 平台 | 地址 | 状态 |
 | --- | --- | --- |
-| GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/ | Actions发布成功 |
+| GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/ | Actions发布成功，公开HTTP 200 |
 | Surge | https://heidelberg-52-20261021-v1-gtstudy.surge.sh/ | 已发布，公开HTTP 200 |
 | Vercel | https://heidelberg-52-20261021-v1-gtstudy.vercel.app/ | Production Ready，公开HTTP 200 |
 
@@ -44,6 +44,8 @@ Surge上传会写入本地`dist/CNAME`；构建脚本删除这个自动文件，
 ## 验证记录
 
 `qa/static-check.json`：57页、4,272个站内链接与锚点，无缺失目标，无重复ID。浏览器实测320、390、820、1440、1920px宽度，正文无横向溢出，52课和129问齐全。地图SVG内部地理几何以clipPath裁切。手机目录、夜读、笔记和进度刷新保存、地图地点、信经切换、背诵遮罩、故事切换通过；控制台无错误。设备朗读依赖系统语音。
+
+三站最终核验：每站16项公开资源均HTTP 200，并与本地最终文件内容一致（合计48项）。覆盖首页、首课/中间课/末课、三份干净信经、原典库、样式脚本与文本数据。完整时间与摘要见`deployment.json`。Pages最近内容发布任务39623652580成功；源码内容提交2f6a135。后续仅文档和核验报告提交不触发重复发布。
 
 ## 使用
 

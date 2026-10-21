@@ -1,0 +1,8 @@
+.vercel/
+.netlify/
+node_modules/
+__pycache__/
+.env*
+*.log
+qa/*.png
+qa/*.pdf

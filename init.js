@@ -1,0 +1,1 @@
+try{const s=JSON.parse(localStorage.getItem('gt52-prefs')||'{}');if(s.dark)document.documentElement.dataset.dark='true';if(s.font)document.documentElement.style.setProperty('--font',s.font+'px');if(s.noMotion)document.documentElement.dataset.motion='off'}catch{}

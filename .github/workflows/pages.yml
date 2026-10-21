@@ -2,6 +2,14 @@ name: Publish GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - 'content/**'
+      - 'build.py'
+      - 'style.css'
+      - 'app.js'
+      - 'init.js'
+      - '*.svg'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
   contents: read

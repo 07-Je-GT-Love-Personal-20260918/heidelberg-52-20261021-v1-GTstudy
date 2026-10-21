@@ -2,6 +2,7 @@ from pathlib import Path
 from html import escape as E
 import json,shutil,re,hashlib
 R=Path(__file__).parent; O=R/'dist';O.mkdir(exist_ok=True)
+if (O/'CNAME').exists():(O/'CNAME').unlink() # Surge writes this locally; it is not a Pages custom domain.
 data=json.loads((R/'content/fulltexts.json').read_text(encoding='utf-8'))
 docs={d['key']:d for d in data['documents']}
 lessons=[dict(zip(['n','title','q','bible','setting','argument','covenant','refs','application','memory','review'],line.split('|'))) for line in (R/'content/lessons.txt').read_text(encoding='utf-8').splitlines() if line]

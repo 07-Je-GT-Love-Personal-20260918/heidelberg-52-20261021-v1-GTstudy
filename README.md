@@ -8,9 +8,9 @@
 
 | 平台 | 地址 | 状态 |
 | --- | --- | --- |
-| GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/ | 部署中，以deployment.json核验为准 |
-| Surge | https://heidelberg-52-20261021-v1-gtstudy.surge.sh/ | 部署中，以deployment.json核验为准 |
-| Vercel | 尚无确认的公开地址 | 待登录和部署成功后填写，不将计划域名冒充上线地址 |
+| GitHub Pages | https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/ | Actions发布成功 |
+| Surge | https://heidelberg-52-20261021-v1-gtstudy.surge.sh/ | 已发布，公开HTTP 200 |
+| Vercel | https://heidelberg-52-20261021-v1-gtstudy.vercel.app/ | Production Ready，公开HTTP 200 |
 
 仓库：https://github.com/07-Je-GT-Love-Personal-20260918/heidelberg-52-20261021-v1-GTstudy
 
@@ -18,7 +18,7 @@
 
 六份正式中文文本来自CCI《敬拜手册》相应网页，与用户提供的2015版PDF对应。`content/fulltexts.json`保存232单元、来源与摘要。现代译文版权归原权利人，不宣称为公版或采用源码许可；不采用旧项目中未经本轮确认的许可声明。原创解读与原文明确分开。
 
-`qa/source-audit.json`记录本轮155个去重来源的联网核验。比较仅忽略Unicode空白，保留词语、标点、段号和脚注。文本hash在每次构建时检查。网站不声称已通读或综合CCI全站，也不声称各欧陆教会在每一项圣约解释上都完全相同。
+`qa/source-audit.json`记录本轮155个去重来源的联网核验：152页、227单元通过，3页涉及5单元因反复TLS/超时错误未完成本轮在线核验；无已观察到的字词差异，不能据此声称232单元本轮全部通过。保留历史来源缓存，文本hash在每次构建时全数检查。比较仅忽略Unicode空白，保留词语、标点、段号和脚注。网站不声称已通读或综合CCI全站，也不声称各欧陆教会在每一项圣约解释上都完全相同。
 
 PDF只读参考，不将其文件、任何访问令牌、账号密码、会话数据放入仓库。Natural Earth底图为公版；地图采用近似现代坐标，不表示古代疆界。插图和图标为原创SVG。
 
@@ -37,7 +37,13 @@ python -m http.server 4182 -d dist
 git switch -c restore-v1 v1.0.0-20261021
 ```
 
-推送main触发Pages自动发布。Surge与Vercel需相应平台认证；账号凭据不进入源码，Vercel配置在`vercel.json`。新版本修改日期、版本、发布域名、README与deployment.json，保留旧标签。
+推送main触发Pages自动发布。Surge与Vercel已用指定账号现有CLI登录发布，凭据不入库，Vercel配置在`vercel.json`。本次Vercel与GitHub自动连接未成功；独立生产部署成功，不声称已有自动跟随Git提交的能力。账号持有人以后可在Vercel连接本仓库启用自动发布，或继续用官方CLI发布。新版本更新日期、版本、发布域名、README和deployment.json，保留旧标签。
+
+Surge上传会写入本地`dist/CNAME`；构建脚本删除这个自动文件，避免GitHub Pages误读为自定义域名。上传Surge后应再构建一次再提交。
+
+## 验证记录
+
+`qa/static-check.json`：57页、4,272个站内链接与锚点，无缺失目标，无重复ID。浏览器实测320、390、820、1440、1920px宽度，正文无横向溢出，52课和129问齐全。地图SVG内部地理几何以clipPath裁切。手机目录、夜读、笔记和进度刷新保存、地图地点、信经切换、背诵遮罩、故事切换通过；控制台无错误。设备朗读依赖系统语音。
 
 ## 使用
 

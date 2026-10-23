@@ -1,0 +1,61 @@
+{
+  "edition": "heidelberg-52-20261023-v2-GTstudy",
+  "checked": "2026-10-23",
+  "browser": "Chromium in-app browser via CUA",
+  "checks": {
+    "index_lessons": 52,
+    "index_questions": 129,
+    "widths_tested": [
+      320,
+      390,
+      768,
+      820,
+      1440,
+      1920
+    ],
+    "body_overflow": false,
+    "minimum_width_max_font": {
+      "width": 320,
+      "font_px": 30,
+      "pages": [
+        "reader-athanasian.html",
+        "day-23.html"
+      ],
+      "overflow": false
+    },
+    "annotations": [
+      "focus preset",
+      "custom font and dashed line with block overlay",
+      "overlapping partial range import preserves text",
+      "same scope restored between index and day page",
+      "delete and undo",
+      "notebook export actual downloaded JSON",
+      "import actual file chooser",
+      "classroom note persistence"
+    ],
+    "memory": [
+      "reveal flash answer",
+      "known schedules next review and advances",
+      "thanks filter starts at day32",
+      "Athanasian creed change",
+      "mask toggles",
+      "incremental display1/11"
+    ],
+    "search": {
+      "query": "称义",
+      "matches": 10,
+      "verified": true
+    },
+    "history": [
+      "Heidelberg selection displays coordinates and culture",
+      "next story advances"
+    ],
+    "logic_chain": "day23 step1 highlights without hiding text",
+    "console_errors": [],
+    "source_text_verification": "232 units checked in check.py against immutable stored text"
+  },
+  "limits": [
+    "Device speech uses OS voice; availability varies.",
+    "Preview sample validation does not prove every possible browser or hardware configuration."
+  ]
+}

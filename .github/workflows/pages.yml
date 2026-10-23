@@ -5,6 +5,10 @@ on:
     paths:
       - 'content/**'
       - 'build.py'
+      - 'edition_v2.py'
+      - 'reader*'
+      - 'annotations.js'
+      - 'v2-dialogs.html'
       - 'style.css'
       - 'app.js'
       - 'init.js'

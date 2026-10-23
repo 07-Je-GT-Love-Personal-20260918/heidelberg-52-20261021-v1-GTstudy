@@ -1,6 +1,7 @@
 {
-  "pages": 57,
-  "local_links_checked": 4272,
+  "pages": 61,
+  "local_links_checked": 5765,
+  "source_units_checked": 232,
   "errors": [],
   "note": "Browser responsive and interaction tests are recorded separately."
 }

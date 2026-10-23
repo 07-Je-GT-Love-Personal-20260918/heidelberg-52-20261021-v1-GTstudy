@@ -1,0 +1,22 @@
+{
+  "edition": "heidelberg-52-20261023-v2-GTstudy",
+  "date": "2026-10-23",
+  "method": "6 second scripted native scrolling at 3000px/s in same-origin iframe, same requested viewport, V1 from retained git tag; no wheel simulation.",
+  "status": "inconclusive",
+  "observed": "Embedded browser repeatedly scheduled frame callbacks at about1000ms, including the V1 baseline. Foreground visibility override did not remove throttling.",
+  "invalid_for": [
+    "FPS comparison",
+    "universal smoothness claim",
+    "performance improvement percentage"
+  ],
+  "optimizations_verified": [
+    "Native wheel/touch handling retained",
+    "CSS content-visibility auto on offscreen sections",
+    "Search data requested only on search open",
+    "Flashcard and creed data requested near studio",
+    "Notes debounced350ms",
+    "Scroll indicator once per animation frame",
+    "No external fonts or frontend libraries"
+  ],
+  "reproduce": "qa/profile.html is a local diagnostic; export V1 baseline assets from tag v1.0.0-20261021 into ignored qa/baseline. Use a foreground ordinary browser; report environment with results."
+}

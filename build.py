@@ -70,3 +70,5 @@ if (R/'qa/source-audit.json').exists():shutil.copyfile(R/'qa/source-audit.json',
 (O/'.nojekyll').write_text('')
 (R/'qa/build-report.json').write_text(json.dumps({'lessons':52,'questions':sum(counts),'documents':6,'source_units':sum(len(d['sections']) for d in docs.values()),'html_pages':len(list(O.glob('*.html'))),'original_analysis_characters':sum(len(''.join(l.values())) for l in lessons)},ensure_ascii=False,indent=2),encoding='utf-8')
 print('Built 57 HTML pages; 52 lessons; 129 questions; 232 source units.')
+from edition_v2 import upgrade
+upgrade(R,O,data,lessons,maphtml,places)

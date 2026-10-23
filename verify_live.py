@@ -1,8 +1,8 @@
 from pathlib import Path
 import requests,json,datetime,concurrent.futures,hashlib
 R=Path(__file__).parent
-bases={'githubPages':'https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-20261021-v1-GTstudy/','surge':'https://heidelberg-52-20261021-v1-gtstudy.surge.sh/','vercel':'https://heidelberg-52-20261021-v1-gtstudy.vercel.app/'}
-files=['index.html','day-01.html','day-27.html','day-52.html','reader-apostles.html','reader-nicene.html','reader-athanasian.html','library.html','style.css','app.js','fulltexts.json','source-audit.json','places.json','creeds.json','lessons.json','journey.svg']
+bases={'githubPages':'https://07-je-gt-love-personal-20260918.github.io/heidelberg-52-GTstudy/','surge':'https://heidelberg-52-20261023-v2-gtstudy.surge.sh/','vercel':'https://heidelberg-52-20261023-v2-gtstudy.vercel.app/'}
+files=['index.html','day-01.html','day-23.html','day-27.html','day-52.html','reader-apostles.html','reader-nicene.html','reader-athanasian.html','library.html','overview.html','history.html','forms.html','memory.html','reader.css','reader.js','reader-init.js','annotations.js','fulltexts.json','source-audit.json','cci-expansion.json','places.json','creeds.json','flashcards.json','search-index.json','journey.svg']
 def verify(arg):
  k,b,f=arg
  try:
@@ -13,5 +13,5 @@ def verify(arg):
 with concurrent.futures.ThreadPoolExecutor(max_workers=8)as ex:rows=list(ex.map(verify,[(k,b,f)for k,b in bases.items()for f in files]))
 for i,r in enumerate(rows):
  if 'error'in r:rows[i]=verify((r['platform'],bases[r['platform']],r['file']))
-out={'edition':'heidelberg-52-20261021-v1-GTstudy','version':'1.0.0','checked_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'repository':'https://github.com/07-Je-GT-Love-Personal-20260918/heidelberg-52-20261021-v1-GTstudy','urls':bases,'results':rows,'summary':{k:{'checked':len(files),'ok':sum(r.get('status')==200 for r in rows if r['platform']==k),'matches_local':sum(r.get('matches_local',False)for r in rows if r['platform']==k)}for k in bases},'limits':['CCI live recheck:227 of232 sections verified; three pages with five sections unavailable due TLS/timeout.','Vercel direct deployment succeeds; GitHub automatic project connection unavailable.']}
+out={'edition':'heidelberg-52-20261023-v2-GTstudy','version':'2.0.0','checked_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'repository':'https://github.com/07-Je-GT-Love-Personal-20260918/heidelberg-52-GTstudy','urls':bases,'results':rows,'summary':{k:{'checked':len(files),'ok':sum(r.get('status')==200 for r in rows if r['platform']==k),'matches_local':sum(r.get('matches_local',False)for r in rows if r['platform']==k)}for k in bases},'limits':['CCI exact text verification ignores Unicode whitespace only; 232/232 units matched across 155 URLs. Supplemental research is selected reading, not exhaustive whole-site reading.','Vercel is deployed with authenticated CLI; GitHub automatic project connection is not configured.','Frame timing in embedded browser is throttled and cannot establish universal FPS.']}
 (R/'deployment.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps(out['summary']))

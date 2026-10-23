@@ -1,0 +1,4006 @@
+{
+  "checked": "2026-10-23T02:13:14.409411+00:00",
+  "scope": "Finite directory inspection and selected article reading; not an exhaustive full-site reading. No modern full body is republished.",
+  "directories": [
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise",
+      "status": 200,
+      "title": "敬拜手册 | 基督教华人网络团契",
+      "body_chars": 545,
+      "body_sha256": "c81a57d48f3d579c744536f31a4848a08e6e674b2c432748b9464f6977210926",
+      "headings": [
+        "敬拜手册"
+      ],
+      "links": [],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/creeds",
+          "title": "普世信经 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions",
+          "title": "三项联合信条"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession",
+          "title": "比利时信条"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism",
+          "title": "海德堡要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort",
+          "title": "多特信经"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/liturgical-forms",
+          "title": "仪文"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/prayers",
+          "title": "祷文"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/church-order",
+          "title": "教会规章"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/forms",
+          "title": "签署书"
+        }
+      ],
+      "discovered_children": 9
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-candlestand-statement",
+      "status": 200,
+      "title": "烛台宣言 | 基督教华人网络团契",
+      "body_chars": 1404,
+      "body_sha256": "2b7ffff08fef0bb778bd53ded4db8ac31b3dfa93e53b49baac489a68b10365f4",
+      "headings": [
+        "归正教会对灵恩运动的看法",
+        "序言"
+      ],
+      "links": [],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/1-1",
+          "title": "1.1 关于启示 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/1-2",
+          "title": "1.2 对圣经的理解"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/1-3",
+          "title": "1.3 圣经的大能"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/2-1",
+          "title": "2.1 关于神的三位一体"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/2-2",
+          "title": "2.2 经历圣灵"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/2-3",
+          "title": "2.3 属灵的恩赐"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/3-1",
+          "title": "3.1 属灵的祝福"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/3-2",
+          "title": "3.2 属世的祝福"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/3-3",
+          "title": "3.3 教会的体制"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/3-4",
+          "title": "3.4 会众的生活"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-candlestand-statement/5",
+          "title": "颂荣"
+        }
+      ],
+      "discovered_children": 11
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-gift-from-heaven",
+      "status": 200,
+      "title": "天上的礼物 | 基督教华人网络团契",
+      "body_chars": 11,
+      "body_sha256": "1c2c10c1da4af9953f0fe12d7f265a80ea587ea1aa9179ce9107eb216c5ce0e6",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/492",
+          "title": "M Retief"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-1",
+          "title": "第一课 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-2",
+          "title": "第二课"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-3",
+          "title": "第三课"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-4",
+          "title": "第四课"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-5",
+          "title": "第五课"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-gift-from-heaven/lesson-6",
+          "title": "第六课"
+        }
+      ],
+      "discovered_children": 6
+    },
+    {
+      "url": "https://ccifellowship.org/books/bible-story",
+      "status": 200,
+      "title": "圣经故事 | 基督教华人网络团契",
+      "body_chars": 7,
+      "body_sha256": "a362cb83ce25a392430e7b981242b24ee143bbb28fc1038608e31ad9b4a40dd0",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/806",
+          "title": "Wolf"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/bible-story/1",
+          "title": "第一册 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/bible-story/2",
+          "title": "第二册"
+        }
+      ],
+      "discovered_children": 2
+    },
+    {
+      "url": "https://ccifellowship.org/books/flame-of-truth",
+      "status": 200,
+      "title": "真理的火焰 | 基督教华人网络团契",
+      "body_chars": 10,
+      "body_sha256": "57712d476ac5b6f58a6d4cdd85830ee6d19745325a978a3636b737e8cb1c8d04",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/1163",
+          "title": "艾普科. 纳珀"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/1",
+          "title": "第一章 教会的发展过程 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/2",
+          "title": "第二章 受迫害的教会"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/3",
+          "title": "第三章 凯撒是神还是基督是神"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/4",
+          "title": "第四章 断手案"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/5",
+          "title": "第五章 一个偷梨贼的忏悔"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/6",
+          "title": "第六章 福音临到爱尔兰"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/7",
+          "title": "第七章 福音临到低地之国"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/8",
+          "title": "第八章 雪妮恩！雪妮恩！他们把你带往哪里去"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/9",
+          "title": "第九章 我看见的更多"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/10",
+          "title": "第十章 圣城里燃起不圣洁的火"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/11",
+          "title": "第十一章 教会与修道院"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/12",
+          "title": "第十二章 真理之光会在欧洲熄灭吗？"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/13",
+          "title": "第十三章 万民的大喜讯"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/14",
+          "title": "第十四章 福音的真光I-马丁路德"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/15",
+          "title": "第十五章 为了人人"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/16",
+          "title": "第十六章 福音的真光"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/17",
+          "title": "第十七章 黑暗过去，光明来临"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/18",
+          "title": "第十八章 神为苏格兰预备的号手"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/19",
+          "title": "第十九章 花园的小屋"
+        },
+        {
+          "url": "https://ccifellowship.org/books/flame-of-truth/20",
+          "title": "第二十章 真理的火焰被踏灭"
+        }
+      ],
+      "discovered_children": 20
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-beauty-of-church-worship",
+      "status": 200,
+      "title": "归正教会敬拜礼仪之美 | 基督教华人网络团契",
+      "body_chars": 14,
+      "body_sha256": "5e8bb976d7a189abcc5add10724c2b270e0820068a129b70a0801d88d3816e37",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/1166",
+          "title": "G.Vandooren"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/1",
+          "title": "定义 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/2",
+          "title": "问题"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/3",
+          "title": "天上的敬拜样式"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/4",
+          "title": "关于敬拜顺序的原则"
+        },
+        {
+          "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/5",
+          "title": "归正会的敬拜次序"
+        }
+      ],
+      "discovered_children": 5
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong",
+      "status": 200,
+      "title": "I Belong | 基督教华人网络团契",
+      "body_chars": 14,
+      "body_sha256": "f880935f947f7b8446784b7994ae8f78346f6d12b740d46d0ca23dfb6a7d47a8",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/books/i-belong/1",
+          "title": "主日一 ›"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/2",
+          "title": "主日二"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/3",
+          "title": "主日三"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/4",
+          "title": "主日四"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/5",
+          "title": "主日五"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/6",
+          "title": "主日六"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/7",
+          "title": "主日七"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/8",
+          "title": "主日八"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/9",
+          "title": "主日九"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/10",
+          "title": "主日十"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/11",
+          "title": "主日十一"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/12",
+          "title": "主日十二"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/13",
+          "title": "主日十三"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/14",
+          "title": "主日十四"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/15",
+          "title": "主日十五"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/16",
+          "title": "主日十六"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/17",
+          "title": "主日十七"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/18",
+          "title": "主日十八"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/19",
+          "title": "主日十九"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/20",
+          "title": "主日二十"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/21",
+          "title": "主日二十一"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/23",
+          "title": "主日二十三"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/22",
+          "title": "主日二十二"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/24",
+          "title": "主日二十四"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/25",
+          "title": "主日二十五"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/26-27",
+          "title": "主日二十六，二十七"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/28-29-30",
+          "title": "主日二十八，二十九，三十"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/31",
+          "title": "主日三十一"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/32",
+          "title": "主日三十二"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/33",
+          "title": "主日三十三"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/34",
+          "title": "主日三十四"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/35",
+          "title": "主日三十五"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/36-37",
+          "title": "主日三十六，三十七"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/38",
+          "title": "主日三十八"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/39",
+          "title": "主日三十九"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/40",
+          "title": "主日四十"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/41",
+          "title": "主日四十一"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/42",
+          "title": "主日四十二"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/43",
+          "title": "主日四十三"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/44",
+          "title": "主日四十四"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/45",
+          "title": "主日四十五"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/46",
+          "title": "主日四十六"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/47",
+          "title": "主日四十七"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/48",
+          "title": "主日四十八"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/49",
+          "title": "主日四十九"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/50",
+          "title": "主日五十"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/51",
+          "title": "主日五十一"
+        },
+        {
+          "url": "https://ccifellowship.org/books/i-belong/52",
+          "title": "主日五十二"
+        }
+      ],
+      "discovered_children": 48
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text",
+      "status": 200,
+      "title": "经文证道 | 基督教华人网络团契",
+      "body_chars": 1767,
+      "body_sha256": "69668a89c065ddba642de132f464306f030cf1e4e2ca2971626a9df3ea9654b2",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/sermons/text/112",
+          "title": "林前系列8：圣灵教导说单身是好的"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-corinthians",
+          "title": "哥林多前书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/genesis",
+          "title": "创世记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/matthew",
+          "title": "马太福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/209",
+          "title": "婚姻"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/675",
+          "title": "单身"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/645",
+          "title": "恩惠"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/180",
+          "title": "圣灵"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/676",
+          "title": "恋慕"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/420",
+          "title": "寄居"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text",
+          "title": "经文证道"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/111",
+          "title": "林前系列7：神吩咐夫妻双方为彼此舍己"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/326",
+          "title": "男女"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/669",
+          "title": "奸淫"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/670",
+          "title": "性关系"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/179",
+          "title": "圣洁"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/164",
+          "title": "爱"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/166",
+          "title": "舍己"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/110",
+          "title": "林前系列6：教会必须把拒不悔改的教会成员交给撒但"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/leviticus",
+          "title": "利未记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/job",
+          "title": "约伯记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/108",
+          "title": "教会"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/516",
+          "title": "管教"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/144",
+          "title": "谦卑"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/89",
+          "title": "悔改"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/665",
+          "title": "玷污"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/109",
+          "title": "林前系列5：神使他的子民成了世上的一台戏"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/isaiah",
+          "title": "以赛亚书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/658",
+          "title": "嘲笑"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/266",
+          "title": "天国"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/659",
+          "title": "鼓励"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/660",
+          "title": "人生"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/85",
+          "title": "信实"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/507",
+          "title": "忠心"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/108",
+          "title": "林前系列4：保罗告诫信徒不可拿人夸口"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/323",
+          "title": "纷争"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/648",
+          "title": "夸口"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/215",
+          "title": "恩典"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/351",
+          "title": "智慧"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/186",
+          "title": "福音"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/107",
+          "title": "林前系列3：神使罪人看基督被钉十架的信息为宝贵"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/462",
+          "title": "十字架"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/329",
+          "title": "五旬节"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/496",
+          "title": "真理"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/286",
+          "title": "堕落"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/106",
+          "title": "林前系列2：罪人靠令人生厌的十字架得救赎"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/207",
+          "title": "罪人"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/457",
+          "title": "神迹"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/398",
+          "title": "救恩"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/105",
+          "title": "林前系列1：保罗为神所赐的恩惠献上感恩"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/acts",
+          "title": "使徒行传"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/356",
+          "title": "感恩节"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/135",
+          "title": "罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/104",
+          "title": "彼前系列2：重生的人专心盼望基督的再来"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-peter",
+          "title": "彼得前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/248",
+          "title": "盼望"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/640",
+          "title": "婚礼"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/282",
+          "title": "重生"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/641",
+          "title": "谨慎"
+        },
+        {
+          "url": "https://ccifellowship.org/node/553",
+          "title": "彼前系列1：对新世界的展望促使我们颂赞神"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/165",
+          "title": "拣选"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/174",
+          "title": "复活"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/239",
+          "title": "咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/637",
+          "title": "新世界"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/103",
+          "title": "神将聆听的耳受教的心赐给所罗门王"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/1-kings",
+          "title": "列王纪上"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/631",
+          "title": "聆听"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/632",
+          "title": "受教"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/90",
+          "title": "顺服"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/633",
+          "title": "教会治理"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/634",
+          "title": "所罗门"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/102",
+          "title": "用属世的钱财结交属天的朋友"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/c-stam",
+          "title": "C. Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/luke",
+          "title": "路加福音"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/revelation",
+          "title": "启示录"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/625",
+          "title": "财富"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/626",
+          "title": "朋友"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/627",
+          "title": "不义"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/628",
+          "title": "管家"
+        },
+        {
+          "url": "https://ccifellowship.org/node/550",
+          "title": "马太福音家谱中的信息"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/2-samuel",
+          "title": "撒母耳记下"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/318",
+          "title": "家谱"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/84",
+          "title": "应许"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/335",
+          "title": "圣约"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/101",
+          "title": "大卫向神发怨言是因为他信靠神"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/psalms",
+          "title": "诗篇"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/617",
+          "title": "抱怨"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/218",
+          "title": "信靠"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/139",
+          "title": "祷告"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/211",
+          "title": "愁苦"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/618",
+          "title": "坦诚"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/294",
+          "title": "感恩"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/100",
+          "title": "法利赛人与税吏"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/78",
+          "title": "Frank Dong"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/276",
+          "title": "骄傲"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/216",
+          "title": "怜悯"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/99",
+          "title": "神的道"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/548",
+          "title": "Ryan"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/John",
+          "title": "约翰福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/611",
+          "title": "道"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/612",
+          "title": "黑暗"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/151",
+          "title": "死亡"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/281",
+          "title": "生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/573",
+          "title": "永恒"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/613",
+          "title": "光"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/98",
+          "title": "耶稣基督是唯一的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/175",
+          "title": "真相"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/97",
+          "title": "阿摩司书系列6：神应许藉着基督荣耀地复兴以色列"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/amos",
+          "title": "阿摩司书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/94",
+          "title": "传福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/605",
+          "title": "复兴"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/334",
+          "title": "祝福"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/606",
+          "title": "国度"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/96",
+          "title": "阿摩司书系列5：阿摩司神的百姓宣布圣约的咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/433",
+          "title": "邪恶"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/603",
+          "title": "安逸"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/439",
+          "title": "满足"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/95",
+          "title": "阿摩司书系列4：寻求公义，就必存活"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/599",
+          "title": "公义"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/600",
+          "title": "生活"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/224",
+          "title": "诫命"
+        },
+        {
+          "url": "https://ccifellowship.org/node/542",
+          "title": "阿摩司书系列3：我们要按神的心意敬拜神"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/88",
+          "title": "敬拜"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/198",
+          "title": "圣餐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/596",
+          "title": "献祭"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/100",
+          "title": "悖逆"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/94",
+          "title": "阿摩司书系列2：耶和华掌管审判万国"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/246",
+          "title": "赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/594",
+          "title": "末日"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/607",
+          "title": "万国万民"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/93",
+          "title": "阿摩司书系列1：立约之神的怒吼"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/2-kings",
+          "title": "列王纪下"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/588",
+          "title": "狮子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/589",
+          "title": "先知"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/590",
+          "title": "牧者"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/555",
+          "title": "劝诫"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/92",
+          "title": "要结出信实的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/137",
+          "title": "Wes Bredenhof"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/romans",
+          "title": "罗马书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/galatians",
+          "title": "加拉太书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/360",
+          "title": "圣灵果子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/83",
+          "title": "忠诚"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/91",
+          "title": "主教导我们要有正确的公义观和智慧观"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/479",
+          "title": "佚名"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/ecclesiastes",
+          "title": "传道书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/578",
+          "title": "公正"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/579",
+          "title": "正义"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/490",
+          "title": "敬畏"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/580",
+          "title": "疑惑"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/71/feed",
+          "title": "订阅 经文证道"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/sermons/text/112",
+          "title": "林前系列8：圣灵教导说单身是好的"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/111",
+          "title": "林前系列7：神吩咐夫妻双方为彼此舍己"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/110",
+          "title": "林前系列6：教会必须把拒不悔改的教会成员交给撒但"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/109",
+          "title": "林前系列5：神使他的子民成了世上的一台戏"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/108",
+          "title": "林前系列4：保罗告诫信徒不可拿人夸口"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/107",
+          "title": "林前系列3：神使罪人看基督被钉十架的信息为宝贵"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/106",
+          "title": "林前系列2：罪人靠令人生厌的十字架得救赎"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/105",
+          "title": "林前系列1：保罗为神所赐的恩惠献上感恩"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/104",
+          "title": "彼前系列2：重生的人专心盼望基督的再来"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/103",
+          "title": "神将聆听的耳受教的心赐给所罗门王"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/102",
+          "title": "用属世的钱财结交属天的朋友"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/101",
+          "title": "大卫向神发怨言是因为他信靠神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/100",
+          "title": "法利赛人与税吏"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/99",
+          "title": "神的道"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/98",
+          "title": "耶稣基督是唯一的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/97",
+          "title": "阿摩司书系列6：神应许藉着基督荣耀地复兴以色列"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/96",
+          "title": "阿摩司书系列5：阿摩司神的百姓宣布圣约的咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/95",
+          "title": "阿摩司书系列4：寻求公义，就必存活"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/94",
+          "title": "阿摩司书系列2：耶和华掌管审判万国"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/93",
+          "title": "阿摩司书系列1：立约之神的怒吼"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/92",
+          "title": "要结出信实的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/91",
+          "title": "主教导我们要有正确的公义观和智慧观"
+        }
+      ],
+      "discovered_children": 22
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+      "status": 200,
+      "title": "要理问答 | 基督教华人网络团契",
+      "body_chars": 1563,
+      "body_sha256": "8086603e4b7ea09b53b0f9c2f908899c695ae16effcee89f1489fa3072b44761",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-52",
+          "title": "【主日52】第六个祈求：保守真信徒持守信仰"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-thessalonians",
+          "title": "帖撒罗尼迦后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/726",
+          "title": "主祷文"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/139",
+          "title": "祷告"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/733",
+          "title": "信仰"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/259",
+          "title": "保守"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+          "title": "要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-51",
+          "title": "【主日51】 第五个祈求：罪得赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/matthew",
+          "title": "马太福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/148",
+          "title": "饶恕"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/246",
+          "title": "赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-50",
+          "title": "【主日50】第四个祈求：我们身体的一切所需"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/psalms",
+          "title": "诗篇"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/731",
+          "title": "饮食"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/732",
+          "title": "需求"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-49",
+          "title": "【主日49】第三个祈求：愿我们的意志得到归正"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/John",
+          "title": "约翰福音"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-thessalonians",
+          "title": "帖撒罗尼迦前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/477",
+          "title": "归正"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-48",
+          "title": "【主日48】第二个祈求：神国的到来"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/mark",
+          "title": "马可福音"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/luke",
+          "title": "路加福音"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-corinthians",
+          "title": "哥林多前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/266",
+          "title": "天国"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/730",
+          "title": "君王"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-47",
+          "title": "【主日47】第一个祈求：“愿人尊你的名为圣”"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/716",
+          "title": "圣名"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/505",
+          "title": "权柄"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-46",
+          "title": "【主日46】使人成为嗣子的灵"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/romans",
+          "title": "罗马书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/galatians",
+          "title": "加拉太书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/728",
+          "title": "天父"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/536",
+          "title": "神的儿女"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/729",
+          "title": "后嗣"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-45-2",
+          "title": "【主日45-II】神确实回应祷告"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/song-of-songs",
+          "title": "雅歌"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/727",
+          "title": "垂听"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-45-1",
+          "title": "【主日45-I】祷告是必需的"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/294",
+          "title": "感恩"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-44-2",
+          "title": "【主日44-II】神要求我们完全"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/philippians",
+          "title": "腓立比书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/87",
+          "title": "十诫"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/179",
+          "title": "圣洁"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/431",
+          "title": "完全"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-44-1",
+          "title": "【主日44-I】第十条诫命：全人都要圣洁"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/429",
+          "title": "贪婪"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-43",
+          "title": "【主日43】第九条诫命：喜爱真理"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/ephesians",
+          "title": "以弗所书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/496",
+          "title": "真理"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/540",
+          "title": "邻舍"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-42",
+          "title": "【主日42】第八条诫命：在神里面富足"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/724",
+          "title": "偷盗"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/725",
+          "title": "富足"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-41",
+          "title": "【主日41】第七条诫命：以我们的身体荣耀神"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/proverbs",
+          "title": "箴言"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/722",
+          "title": "奉献"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/723",
+          "title": "荣耀神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-40",
+          "title": "【主日40】第六条诫命：生命是神主权的恩赐"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/genesis",
+          "title": "创世记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/281",
+          "title": "生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/721",
+          "title": "谋杀"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-39",
+          "title": "【主日39】第五条诫命：承认父母的职分"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/deuteronomy",
+          "title": "申命记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/720",
+          "title": "孝敬"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/90",
+          "title": "顺服"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-38",
+          "title": "【主日38】第四条诫命：安息日"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/exodus",
+          "title": "出埃及记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/719",
+          "title": "安息日"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/88",
+          "title": "敬拜"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-37",
+          "title": "【主日37】起誓"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/718",
+          "title": "起誓"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-36",
+          "title": "【主日36】第三条诫命：称呼主名"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/leviticus",
+          "title": "利未记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/224",
+          "title": "诫命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/717",
+          "title": "亵渎"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-35",
+          "title": "【主日35】第二条诫命：特别的敬拜方式"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/ezekiel",
+          "title": "以西结书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/476",
+          "title": "偶像"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-2",
+          "title": "【主日34-II】第一条诫命：侍奉独一的活神"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/349",
+          "title": "选择"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/715",
+          "title": "独一真神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-1",
+          "title": "【主日34-I】圣约律法的功用"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/335",
+          "title": "圣约"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/110",
+          "title": "律法"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-33",
+          "title": "【主日33】人真正的归信"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-corinthians",
+          "title": "哥林多后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/135",
+          "title": "罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/411",
+          "title": "忧伤"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-32",
+          "title": "【主日32】更新我们的生命，过感恩的生活"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/714",
+          "title": "成圣"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/495",
+          "title": "行善"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-31",
+          "title": "【主日31】圣灵的管教"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/hebrews",
+          "title": "希伯来书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/revelation",
+          "title": "启示录"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/108",
+          "title": "教会"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/516",
+          "title": "管教"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/558",
+          "title": "教会纪律"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/72/feed",
+          "title": "订阅 要理问答"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-52",
+          "title": "【主日52】第六个祈求：保守真信徒持守信仰"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-51",
+          "title": "【主日51】 第五个祈求：罪得赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-50",
+          "title": "【主日50】第四个祈求：我们身体的一切所需"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-49",
+          "title": "【主日49】第三个祈求：愿我们的意志得到归正"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-48",
+          "title": "【主日48】第二个祈求：神国的到来"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-47",
+          "title": "【主日47】第一个祈求：“愿人尊你的名为圣”"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-46",
+          "title": "【主日46】使人成为嗣子的灵"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-45-2",
+          "title": "【主日45-II】神确实回应祷告"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-45-1",
+          "title": "【主日45-I】祷告是必需的"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-44-2",
+          "title": "【主日44-II】神要求我们完全"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-44-1",
+          "title": "【主日44-I】第十条诫命：全人都要圣洁"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-43",
+          "title": "【主日43】第九条诫命：喜爱真理"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-42",
+          "title": "【主日42】第八条诫命：在神里面富足"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-41",
+          "title": "【主日41】第七条诫命：以我们的身体荣耀神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-40",
+          "title": "【主日40】第六条诫命：生命是神主权的恩赐"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-39",
+          "title": "【主日39】第五条诫命：承认父母的职分"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-38",
+          "title": "【主日38】第四条诫命：安息日"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-37",
+          "title": "【主日37】起誓"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-36",
+          "title": "【主日36】第三条诫命：称呼主名"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-35",
+          "title": "【主日35】第二条诫命：特别的敬拜方式"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-2",
+          "title": "【主日34-II】第一条诫命：侍奉独一的活神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-1",
+          "title": "【主日34-I】圣约律法的功用"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-33",
+          "title": "【主日33】人真正的归信"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-32",
+          "title": "【主日32】更新我们的生命，过感恩的生活"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-31",
+          "title": "【主日31】圣灵的管教"
+        }
+      ],
+      "discovered_children": 25
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism?page=1",
+      "status": 200,
+      "title": "要理问答 | 基督教华人网络团契",
+      "body_chars": 1351,
+      "body_sha256": "91501c359b0a0978f26f02f4d3979043014eb4032d67a8b557db5d480d61dc94",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-30",
+          "title": "【主日30】新约的筵席"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/hebrews",
+          "title": "希伯来书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/198",
+          "title": "圣餐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/712",
+          "title": "筵席"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/713",
+          "title": "新约"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+          "title": "要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-29",
+          "title": "【主日29】圣餐没有魔力"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/John",
+          "title": "约翰福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/710",
+          "title": "饼"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/711",
+          "title": "杯"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-28",
+          "title": "【主日28】在圣餐中与基督相交"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-john",
+          "title": "约翰一书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/482",
+          "title": "相交"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-27",
+          "title": "【主日27】圣洗礼也是赐给孩子的"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/genesis",
+          "title": "创世记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/ezekiel",
+          "title": "以西结书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/707",
+          "title": "洗礼"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/709",
+          "title": "婴孩"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/335",
+          "title": "圣约"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-26",
+          "title": "【主日26】洗礼：洗净我们的灵魂"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-peter",
+          "title": "彼得前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/84",
+          "title": "应许"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/708",
+          "title": "水"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-25",
+          "title": "【主日25】信心是神大能的恩典之工"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/ephesians",
+          "title": "以弗所书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/180",
+          "title": "圣灵"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/215",
+          "title": "恩典"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-24",
+          "title": "【主日24】神的标准"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/isaiah",
+          "title": "以赛亚书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/matthew",
+          "title": "马太福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/495",
+          "title": "行善"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/537",
+          "title": "标准"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-23",
+          "title": "【主日23 】唯独因信称义"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/philippians",
+          "title": "腓立比书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/706",
+          "title": "因信称义"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/208",
+          "title": "称义"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-22",
+          "title": "【主日22 】永远的生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/530",
+          "title": "永生"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/395",
+          "title": "荣耀"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/705",
+          "title": "福乐"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-3",
+          "title": "【主日21-III 】教会的职分"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-corinthians",
+          "title": "哥林多后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/704",
+          "title": "和好"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/246",
+          "title": "赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-2",
+          "title": "【主日21-II 】教会就是圣徒相通"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-corinthians",
+          "title": "哥林多前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/108",
+          "title": "教会"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/702",
+          "title": "圣徒"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/703",
+          "title": "相通"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-1",
+          "title": "【主日21-I】教会：信徒的聚集"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/532",
+          "title": "合一"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/701",
+          "title": "招聚"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-20",
+          "title": "【主日20】圣灵的工作"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/700",
+          "title": "圣经"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-19",
+          "title": "【主日19】耶稣基督居首位"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/colossians",
+          "title": "歌罗西书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/698",
+          "title": "教会的头"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/699",
+          "title": "王"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-18",
+          "title": "【主日18】升天基督的属天同在"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/506",
+          "title": "圣子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/174",
+          "title": "复活"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-17",
+          "title": "【主日17】活着的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/253",
+          "title": "果子"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-16",
+          "title": "【主日16】基督死，使我们得生"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/135",
+          "title": "罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/151",
+          "title": "死亡"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-15",
+          "title": "【主日15】十字架：终极的咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/deuteronomy",
+          "title": "申命记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/galatians",
+          "title": "加拉太书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/462",
+          "title": "十字架"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/239",
+          "title": "咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-14",
+          "title": "【主日14】基督道成肉身，拯救世人"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-13",
+          "title": "【主日13】耶稣是主"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/romans",
+          "title": "罗马书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/695",
+          "title": "耶稣"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/693",
+          "title": "救主"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/696",
+          "title": "主"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/697",
+          "title": "仆人"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-12",
+          "title": "【主日12】耶稣是基督，是神的受膏者"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/694",
+          "title": "受膏"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-11",
+          "title": "【主日11】独一的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-timothy",
+          "title": "提摩太后书"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-10",
+          "title": "【主日10】 神恩手的护理"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/psalms",
+          "title": "诗篇"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/681",
+          "title": "圣父"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/300",
+          "title": "创造"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/692",
+          "title": "护理"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-09",
+          "title": "【主日9】圣父与他的儿女"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/536",
+          "title": "神的儿女"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-08",
+          "title": "【主日8】三位一体的神"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/acts",
+          "title": "使徒行传"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/691",
+          "title": "三位一体"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/72/feed",
+          "title": "订阅 要理问答"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-30",
+          "title": "【主日30】新约的筵席"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-29",
+          "title": "【主日29】圣餐没有魔力"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-28",
+          "title": "【主日28】在圣餐中与基督相交"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-27",
+          "title": "【主日27】圣洗礼也是赐给孩子的"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-26",
+          "title": "【主日26】洗礼：洗净我们的灵魂"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-25",
+          "title": "【主日25】信心是神大能的恩典之工"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-24",
+          "title": "【主日24】神的标准"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-23",
+          "title": "【主日23 】唯独因信称义"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-22",
+          "title": "【主日22 】永远的生命"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-3",
+          "title": "【主日21-III 】教会的职分"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-2",
+          "title": "【主日21-II 】教会就是圣徒相通"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-21-1",
+          "title": "【主日21-I】教会：信徒的聚集"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-20",
+          "title": "【主日20】圣灵的工作"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-19",
+          "title": "【主日19】耶稣基督居首位"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-18",
+          "title": "【主日18】升天基督的属天同在"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-17",
+          "title": "【主日17】活着的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-16",
+          "title": "【主日16】基督死，使我们得生"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-15",
+          "title": "【主日15】十字架：终极的咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-14",
+          "title": "【主日14】基督道成肉身，拯救世人"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-13",
+          "title": "【主日13】耶稣是主"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-12",
+          "title": "【主日12】耶稣是基督，是神的受膏者"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-11",
+          "title": "【主日11】独一的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-10",
+          "title": "【主日10】 神恩手的护理"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-09",
+          "title": "【主日9】圣父与他的儿女"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-08",
+          "title": "【主日8】三位一体的神"
+        }
+      ],
+      "discovered_children": 25
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism?page=2",
+      "status": 200,
+      "title": "要理问答 | 基督教华人网络团契",
+      "body_chars": 400,
+      "body_sha256": "27650d9c9ba40928be4bc747486bd479677959bb224411c7fb60d703d286a413",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-07",
+          "title": "【主日7】真信心是得救的唯一途径"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/John",
+          "title": "约翰福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+          "title": "要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-06",
+          "title": "【主日6】唯一的中保"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-corinthians",
+          "title": "哥林多前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/687",
+          "title": "中保"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/688",
+          "title": "得救"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/689",
+          "title": "道路"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-05",
+          "title": "【主日5】得救的唯一道路"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/acts",
+          "title": "使徒行传"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/686",
+          "title": "罪恶"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/211",
+          "title": "愁苦"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-04",
+          "title": "【主日4】神完全的公义"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/exodus",
+          "title": "出埃及记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/110",
+          "title": "律法"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-03",
+          "title": "【主日3】罪的奥秘"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/romans",
+          "title": "罗马书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/135",
+          "title": "罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/477",
+          "title": "归正"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/300",
+          "title": "创造"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/433",
+          "title": "邪恶"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/683",
+          "title": "败坏"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-02",
+          "title": "【主日2】知道我们真实的愁苦"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/681",
+          "title": "圣父"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/506",
+          "title": "圣子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/180",
+          "title": "圣灵"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/224",
+          "title": "诫命"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-01",
+          "title": "【主日1】教会唯一的安慰"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/isaiah",
+          "title": "以赛亚书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/107",
+          "title": "安慰"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/261",
+          "title": "喜乐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/246",
+          "title": "赦免"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/239",
+          "title": "咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/679",
+          "title": "生死"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/72/feed",
+          "title": "订阅 要理问答"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-07",
+          "title": "【主日7】真信心是得救的唯一途径"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-06",
+          "title": "【主日6】唯一的中保"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-05",
+          "title": "【主日5】得救的唯一道路"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-04",
+          "title": "【主日4】神完全的公义"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-03",
+          "title": "【主日3】罪的奥秘"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-02",
+          "title": "【主日2】知道我们真实的愁苦"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-01",
+          "title": "【主日1】教会唯一的安慰"
+        }
+      ],
+      "discovered_children": 7
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text?page=1",
+      "status": 200,
+      "title": "经文证道 | 基督教华人网络团契",
+      "body_chars": 1668,
+      "body_sha256": "57b711b1cbc58950f1ac7a584db2eaf3222a77db60d17d8e586518257699550e",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/sermons/text/90",
+          "title": "成圣基督徒要活出喜乐生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/137",
+          "title": "Wes Bredenhof"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/John",
+          "title": "约翰福音"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/galatians",
+          "title": "加拉太书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/360",
+          "title": "圣灵果子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/261",
+          "title": "喜乐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/573",
+          "title": "永恒"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/483",
+          "title": "新生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/87",
+          "title": "十诫"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/574",
+          "title": "患难"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text",
+          "title": "经文证道"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/89",
+          "title": "仁爱是圣灵结出的第一个且最重要的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/matthew",
+          "title": "马太福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/568",
+          "title": "仁爱"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/164",
+          "title": "爱"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/140",
+          "title": "相爱"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/569",
+          "title": "牺牲"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/199",
+          "title": "仇恨"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/88",
+          "title": "我们要靠圣灵行事，要节制"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/559",
+          "title": "Jerrold H."
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/colossians",
+          "title": "歌罗西书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/561",
+          "title": "节制"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/562",
+          "title": "情欲"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/563",
+          "title": "哲学"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/87",
+          "title": "敢于管教"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/479",
+          "title": "佚名"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/555",
+          "title": "劝诫"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/516",
+          "title": "管教"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/556",
+          "title": "教养"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/557",
+          "title": "论断"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/558",
+          "title": "教会纪律"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/86",
+          "title": "十个麻风病人"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/548",
+          "title": "Ryan"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/luke",
+          "title": "路加福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/551",
+          "title": "痲疯"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/552",
+          "title": "神国"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/281",
+          "title": "生命"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/389",
+          "title": "医治"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/294",
+          "title": "感恩"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/460",
+          "title": "重建"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/85",
+          "title": "基督为我们立下了死和复活的样式"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/543",
+          "title": "Ted"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/isaiah",
+          "title": "以赛亚书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/job",
+          "title": "约伯记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-corinthians",
+          "title": "哥林多后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/174",
+          "title": "复活"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/254",
+          "title": "灵魂"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/546",
+          "title": "生命册"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/282",
+          "title": "重生"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/186",
+          "title": "福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/151",
+          "title": "死亡"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/84",
+          "title": "做一个好邻居"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/leviticus",
+          "title": "利未记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/540",
+          "title": "邻舍"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/541",
+          "title": "冷漠"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/135",
+          "title": "罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/224",
+          "title": "诫命"
+        },
+        {
+          "url": "https://ccifellowship.org/node/530",
+          "title": "在天国中谁是最大的"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/536",
+          "title": "神的儿女"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/266",
+          "title": "天国"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/537",
+          "title": "标准"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/144",
+          "title": "谦卑"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/538",
+          "title": "尊荣"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/218",
+          "title": "信靠"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/83",
+          "title": "基督教会的基本准则"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/dirk-boersma",
+          "title": "Dirk Boersma"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/1-corinthians",
+          "title": "哥林多前书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/108",
+          "title": "教会"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/532",
+          "title": "合一"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/180",
+          "title": "圣灵"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/90",
+          "title": "顺服"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/84",
+          "title": "应许"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/533",
+          "title": "根基"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/82",
+          "title": "靠圣灵行事"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/psalms",
+          "title": "诗篇"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/329",
+          "title": "五旬节"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/181",
+          "title": "争战"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/530",
+          "title": "永生"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/81",
+          "title": "保罗肉体上的刺"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/78",
+          "title": "Frank Dong"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/acts",
+          "title": "使徒行传"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/240",
+          "title": "苦难"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/82",
+          "title": "试炼"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/236",
+          "title": "诱惑"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/215",
+          "title": "恩典"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/525",
+          "title": "眷顾"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/211",
+          "title": "愁苦"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/80",
+          "title": "创世记系列3：耶和华对该隐的审判"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/512",
+          "title": "Jacob G."
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/hebrews",
+          "title": "希伯来书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/genesis",
+          "title": "创世记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/514",
+          "title": "该隐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/197",
+          "title": "犯罪"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/515",
+          "title": "女人的后裔"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/79",
+          "title": "创世记系列2：耶和华的争战"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/286",
+          "title": "堕落"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/161",
+          "title": "警醒"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/78",
+          "title": "创世记系列1：耶和华应许的救"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/revelation",
+          "title": "启示录"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/247",
+          "title": "救赎"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/203",
+          "title": "得胜"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/77",
+          "title": "马太福音系列3：耶稣的权柄被质问"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/505",
+          "title": "权柄"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/506",
+          "title": "圣子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/507",
+          "title": "忠心"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/76",
+          "title": "马太福音系列2：为污鬼预备的住所"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/235",
+          "title": "魔鬼"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/502",
+          "title": "警告"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/391",
+          "title": "启示"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/75",
+          "title": "马太福音系列1：约拿的神迹"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/457",
+          "title": "神迹"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/499",
+          "title": "法利赛人"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/198",
+          "title": "圣餐"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/234",
+          "title": "试探"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/74",
+          "title": "充分预备好行各样的善事"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/492",
+          "title": "M Retief"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-timothy",
+          "title": "提摩太后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/495",
+          "title": "行善"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/496",
+          "title": "真理"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/80",
+          "title": "信仰告白"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/405",
+          "title": "事奉"
+        },
+        {
+          "url": "https://ccifellowship.org/node/519",
+          "title": "你到神的殿要谦卑"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/ecclesiastes",
+          "title": "传道书"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/1-kings",
+          "title": "列王纪上"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/489",
+          "title": "训诲"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/471",
+          "title": "圣殿"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/88",
+          "title": "敬拜"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/490",
+          "title": "敬畏"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/73",
+          "title": "五旬节是基督复活的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/482",
+          "title": "相交"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/72",
+          "title": "迦密山上，耶和华使他的民承认他是独一真神"
+        },
+        {
+          "url": "https://ccifellowship.org/pastors/adriaan",
+          "title": "Adriaan"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/474",
+          "title": "以利亚"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/476",
+          "title": "偶像"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/477",
+          "title": "归正"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/335",
+          "title": "圣约"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/71",
+          "title": "主耶稣发义怒，洁净圣殿"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/454",
+          "title": "Gijsbert Nederveen"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/malachi",
+          "title": "玛拉基书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/468",
+          "title": "世俗化"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/469",
+          "title": "逾越节"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/472",
+          "title": "义怒"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/70",
+          "title": "世界的弥赛亚宣告自己将在十字架上受死"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/462",
+          "title": "十字架"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/152",
+          "title": "受难"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/463",
+          "title": "弥赛亚"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/208",
+          "title": "称义"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/398",
+          "title": "救恩"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/69",
+          "title": "头一个神迹——耶稣是他百姓的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/303",
+          "title": "婚宴"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/459",
+          "title": "迦拿"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/248",
+          "title": "盼望"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/68",
+          "title": "什么是信徒应当思念并去行的事"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/philippians",
+          "title": "腓立比书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/449",
+          "title": "思想"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/450",
+          "title": "道德"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/451",
+          "title": "意志"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/452",
+          "title": "悟性"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/453",
+          "title": "美德"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/71/feed",
+          "title": "订阅 经文证道"
+        }
+      ],
+      "child_links": [
+        {
+          "url": "https://ccifellowship.org/sermons/text/90",
+          "title": "成圣基督徒要活出喜乐生命"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/89",
+          "title": "仁爱是圣灵结出的第一个且最重要的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/88",
+          "title": "我们要靠圣灵行事，要节制"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/87",
+          "title": "敢于管教"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/86",
+          "title": "十个麻风病人"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/85",
+          "title": "基督为我们立下了死和复活的样式"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/84",
+          "title": "做一个好邻居"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/83",
+          "title": "基督教会的基本准则"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/82",
+          "title": "靠圣灵行事"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/81",
+          "title": "保罗肉体上的刺"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/80",
+          "title": "创世记系列3：耶和华对该隐的审判"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/79",
+          "title": "创世记系列2：耶和华的争战"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/78",
+          "title": "创世记系列1：耶和华应许的救"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/77",
+          "title": "马太福音系列3：耶稣的权柄被质问"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/76",
+          "title": "马太福音系列2：为污鬼预备的住所"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/75",
+          "title": "马太福音系列1：约拿的神迹"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/74",
+          "title": "充分预备好行各样的善事"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/73",
+          "title": "五旬节是基督复活的果子"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/72",
+          "title": "迦密山上，耶和华使他的民承认他是独一真神"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/71",
+          "title": "主耶稣发义怒，洁净圣殿"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/70",
+          "title": "世界的弥赛亚宣告自己将在十字架上受死"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/69",
+          "title": "头一个神迹——耶稣是他百姓的救主"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text/68",
+          "title": "什么是信徒应当思念并去行的事"
+        }
+      ],
+      "discovered_children": 23
+    }
+  ],
+  "read_pages": [
+    {
+      "url": "https://ccifellowship.org/books/i-belong/1",
+      "status": 200,
+      "title": "主日一 | 基督教华人网络团契",
+      "body_chars": 4528,
+      "body_sha256": "f507413a2c952c3a81d7cde798b7285dfbfe8eec7d69f651286f72d22828b7cf",
+      "headings": [
+        "主日1",
+        "1．问：或生或死，你唯一的安慰是什么？",
+        "2．问：为了在这样的安慰中喜乐地生或死，你必须知道哪些事呢？",
+        "概要",
+        "解说",
+        "名词解释",
+        "图解",
+        "阅读",
+        "思考题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/lord-day-1",
+          "title": "主日1"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/7",
+      "status": 200,
+      "title": "主日七 | 基督教华人网络团契",
+      "body_chars": 5915,
+      "body_sha256": "6daf1a06f1c05eb789704def94f0da1714f87a33f950ea9d1f97045f3620f6be",
+      "headings": [
+        "主日7",
+        "20．问：因着亚当，众人都灭亡了。那么是否藉着基督，众人都得救了呢？",
+        "21．问：什么是真信心？",
+        "22．问：那么，基督徒必须相信什么？",
+        "23．问：这一信经包括哪些内容？",
+        "概要",
+        "解说",
+        "名词解释",
+        "图解",
+        "阅读",
+        "争议",
+        "思考题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-7",
+          "title": "主日7"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/23",
+      "status": 200,
+      "title": "主日二十三 | 基督教华人网络团契",
+      "body_chars": 4436,
+      "body_sha256": "047f3cbf3c99b683fa3048b8c2d9c2ffec2656e696e6d16479053112c3729c5a",
+      "headings": [
+        "主日23",
+        "59．问：相信这一信经所宣告的内容对你有什么帮助？",
+        "60．问：你怎样在神面前称义呢？",
+        "61．问：你为什么说唯独因信称义呢？",
+        "概要",
+        "解说",
+        "名词解释",
+        "请插入图例",
+        "阅读",
+        "争议",
+        "问答题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part3/lord-day-23",
+          "title": "主日23"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/26-27",
+      "status": 200,
+      "title": "主日二十六，二十七 | 基督教华人网络团契",
+      "body_chars": 7543,
+      "body_sha256": "96a8e8a0bf91ac9dace1eafe0bc66fd5bb7b5bb40b668669ad9888639099eb7c",
+      "headings": [
+        "主日26",
+        "69．问：洗礼是如何向你表明并印证基督在十字架上一次的献祭于你有益的呢？",
+        "70．问：受基督宝血和圣灵的洗是什么意思呢？",
+        "71．问：基督在哪里应许我们，他要用他的宝血与圣灵洗涤我们，正如洗礼的水洗涤我们一样呢？",
+        "主日27",
+        "72．问：外在的水洗能除去罪吗？",
+        "73．问：既然如此，圣灵为什么称洗礼是重生和除罪的洗呢？",
+        "74．问：婴孩也要受洗吗？",
+        "概要",
+        "解说",
+        "名词解释",
+        "请插入图例",
+        "阅读",
+        "争议",
+        "问答题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-26",
+          "title": "主日26"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-27",
+          "title": "主日27"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/28-29-30",
+      "status": 200,
+      "title": "主日二十八，二十九，三十 | 基督教华人网络团契",
+      "body_chars": 9087,
+      "body_sha256": "15df6ba8e9d3c32a2fc98ded6b73ba06b08ebab970aa79bd43bc7937ee4a0b03",
+      "headings": [
+        "主日28",
+        "75．问：圣餐是如何向你表明并印证，你有份于基督在十字架上一次的献祭及其一切恩惠的呢？",
+        "76．问：吃基督被钉的身体，喝他所流的宝血是什么意思？",
+        "77．问：基督在何处应许说，他要用自己的身体和宝血使信徒得喂养和更新，就像使他们从吃这擘开的饼、喝这杯中得喂养一样？",
+        "主日29",
+        "78．问：那么，这饼和酒真的是变成基督的身体和宝血了吗？",
+        "79．问：那么，基督为什么称这饼是他的身体，这杯是他的血，是用他的血所立的新约呢？另外，为什么保罗也说到同领基督的身体和血呢？",
+        "主日30",
+        "80．问：圣餐与天主教的弥撒有什么不同？",
+        "81．问：什么人可以到主的桌前领圣餐呢？",
+        "82．问：那些在言行上显为不信不虔的人，也可以领圣餐吗？",
+        "概要",
+        "解说",
+        "名词解释",
+        "请插入图例",
+        "阅读",
+        "争议",
+        "问答题："
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
+          "title": "主日28"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-29",
+          "title": "主日29"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-30",
+          "title": "主日30"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/34",
+      "status": 200,
+      "title": "主日三十四 | 基督教华人网络团契",
+      "body_chars": 7233,
+      "body_sha256": "4eb90e241b80a8fc7dd52498dbbf0c7ab47f3c39a69be4cdf3ec43407afe8961",
+      "headings": [
+        "主日34",
+        "92．问：什么是神的律法？",
+        "93．问：这些诫命是如何划分的？",
+        "94．问：神在第一条诫命中吩咐了什么？",
+        "95．问：什么是拜偶像？",
+        "概要",
+        "解说",
+        "名词解释",
+        "请插入图例",
+        "阅读",
+        "争议",
+        "思考题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-34",
+          "title": "主日34"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/45",
+      "status": 200,
+      "title": "主日四十五 | 基督教华人网络团契",
+      "body_chars": 5647,
+      "body_sha256": "a3831690eea882ef73235cdae8db58b4bce439b962f259dd7fffd141ef86b847",
+      "headings": [
+        "主日45",
+        "116．问：为什么祷告对基督徒来说是必不可少的呢？",
+        "117．问：什么样的祷告才蒙神悦纳和垂听？",
+        "118．问：神吩咐我们向他祈求什么？",
+        "119．问：什么是主祷文？",
+        "概要",
+        "解说",
+        "名词解释",
+        "阅读",
+        "争议",
+        "思考题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-45",
+          "title": "主日45"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/52",
+      "status": 200,
+      "title": "主日五十二 | 基督教华人网络团契",
+      "body_chars": 6328,
+      "body_sha256": "b90cc7cf122e85cac876d4309b02532ceb1db315ea3cb3c52fe644b8329099da",
+      "headings": [
+        "主日52",
+        "127．问：第六个祈求是什么？",
+        "128．问：主祷文是如何结束的？",
+        "129．问：“阿们”是什么意思？",
+        "概要",
+        "解说",
+        "名词解释",
+        "请插入图例",
+        "阅读",
+        "争议",
+        "思考题"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/340",
+          "title": "James Visscher"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-52",
+          "title": "主日52"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-1",
+      "status": 200,
+      "title": "【主日34-I】圣约律法的功用 | 基督教华人网络团契",
+      "body_chars": 5791,
+      "body_sha256": "d831c19b440fe8d1733a539c50972bf05596b6880aff13bb90b7abc8e674f2af",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+          "title": "要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-34",
+          "title": "主日34"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/leviticus",
+          "title": "利未记"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/deuteronomy",
+          "title": "申命记"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/335",
+          "title": "圣约"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/110",
+          "title": "律法"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/87",
+          "title": "十诫"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/768",
+          "title": "利未记19:1-4"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/769",
+          "title": "申命记6:20-25"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-52",
+      "status": 200,
+      "title": "【主日52】第六个祈求：保守真信徒持守信仰 | 基督教华人网络团契",
+      "body_chars": 5458,
+      "body_sha256": "a8f6b86937eeb0309e5f21ab3d4dc86b09c7c85d8e675a864b78c830aac5c5ee",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/pastors/clarence-bouwman",
+          "title": "Clarence Stam"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/heidelberg-catechism",
+          "title": "要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-52",
+          "title": "主日52"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/new-testament/2-thessalonians",
+          "title": "帖撒罗尼迦后书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/726",
+          "title": "主祷文"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/139",
+          "title": "祷告"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/733",
+          "title": "信仰"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/192",
+          "title": "信心"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/259",
+          "title": "保守"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/734",
+          "title": "帖撒罗尼迦后书2"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism",
+          "title": "海德堡要理问答"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/lord-day-1",
+          "title": "主日1"
+        },
+        {
+          "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort",
+          "title": "多特信经"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text/96",
+      "status": 200,
+      "title": "阿摩司书系列5：阿摩司神的百姓宣布圣约的咒诅 | 基督教华人网络团契",
+      "body_chars": 4988,
+      "body_sha256": "5c653a0f1f301118ac126b0d65537e183fe7ae6f2d1c7cc61d472116a13f094b",
+      "headings": [
+        "1. 神的百姓拥有的特别权利",
+        "2. 神对百姓的重要呼召",
+        "3. 神的百姓应怎样积极回应"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/548",
+          "title": "Ryan"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text",
+          "title": "经文证道"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/amos",
+          "title": "阿摩司书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/433",
+          "title": "邪恶"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/603",
+          "title": "安逸"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/439",
+          "title": "满足"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/239",
+          "title": "咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/89",
+          "title": "悔改"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/602",
+          "title": "阿摩司书6:1-7"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text/97",
+      "status": 200,
+      "title": "阿摩司书系列6：神应许藉着基督荣耀地复兴以色列 | 基督教华人网络团契",
+      "body_chars": 5877,
+      "body_sha256": "8135fc67fb1aad155fdc8dcd92fdd8a465242cea167f40d53a560c14e65e2b67",
+      "headings": [
+        "1. 复兴的目的",
+        "2．复兴的结果",
+        "3．复兴的确据"
+      ],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/548",
+          "title": "Ryan"
+        },
+        {
+          "url": "https://ccifellowship.org/sermons/text",
+          "title": "经文证道"
+        },
+        {
+          "url": "https://ccifellowship.org/bible/old-testament/amos",
+          "title": "阿摩司书"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/94",
+          "title": "传福音"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/511",
+          "title": "审判"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/605",
+          "title": "复兴"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/239",
+          "title": "咒诅"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/334",
+          "title": "祝福"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/606",
+          "title": "国度"
+        },
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/604",
+          "title": "阿摩司书9:11-15"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/4",
+      "status": 200,
+      "title": "关于敬拜顺序的原则 | 基督教华人网络团契",
+      "body_chars": 1226,
+      "body_sha256": "4dcaf398ee8fa878730543a0456e1750c6038a9dcff911cd4d06caf359f72a11",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/1166",
+          "title": "G.Vandooren"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/5",
+      "status": 200,
+      "title": "归正会的敬拜次序 | 基督教华人网络团契",
+      "body_chars": 620,
+      "body_sha256": "9ab811e14ce597ef31cab50788b7cd3c4683e32b1157bb797f4a65d7e370d3ec",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/1166",
+          "title": "G.Vandooren"
+        }
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-candlestand-statement",
+      "status": 200,
+      "title": "烛台宣言 | 基督教华人网络团契",
+      "body_chars": 1404,
+      "body_sha256": "2b7ffff08fef0bb778bd53ded4db8ac31b3dfa93e53b49baac489a68b10365f4",
+      "headings": [
+        "归正教会对灵恩运动的看法",
+        "序言"
+      ],
+      "links": []
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-gift-from-heaven",
+      "status": 200,
+      "title": "天上的礼物 | 基督教华人网络团契",
+      "body_chars": 11,
+      "body_sha256": "1c2c10c1da4af9953f0fe12d7f265a80ea587ea1aa9179ce9107eb216c5ce0e6",
+      "headings": [],
+      "links": [
+        {
+          "url": "https://ccifellowship.org/taxonomy/term/492",
+          "title": "M Retief"
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "category": "I Belong",
+      "directory_pages_accessed": 1,
+      "article_pages_read": 8,
+      "thematically_relevant_articles_read": 8,
+      "discovered_article_urls": 48,
+      "note": "Directory spans 52 Lords Days in 48 grouped article URLs; only eight selected articles read."
+    },
+    {
+      "category": "Heidelberg sermons",
+      "directory_pages_accessed": 3,
+      "article_pages_read": 2,
+      "thematically_relevant_articles_read": 2,
+      "discovered_article_urls": 57,
+      "note": "Three paginated index pages inspected; two selected sermons read."
+    },
+    {
+      "category": "Bible text sermons",
+      "directory_pages_accessed": 2,
+      "article_pages_read": 2,
+      "thematically_relevant_articles_read": 2,
+      "discovered_article_urls": 45,
+      "note": "Only two index pages inspected, not all archive pages."
+    },
+    {
+      "category": "Other book navigation",
+      "directory_pages_accessed": 6,
+      "article_pages_read": 4,
+      "thematically_relevant_articles_read": 3,
+      "note": "Two worship chapters and Candlestand opening read; Gift from Heaven landing only has author metadata, not substantive chapter content."
+    }
+  ],
+  "course_supplements": [
+    {
+      "url": "https://ccifellowship.org/books/i-belong/1",
+      "use": "First-person comfort; three-part misery/deliverance/gratitude course map; personal pronoun memory exercise.",
+      "lords_days": [
+        1
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/7",
+      "use": "True faith, creedal authority and relation between Scripture and subordinate confession.",
+      "lords_days": [
+        7,
+        8
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/23",
+      "use": "Distinguish justification basis in Christ from faith as receiving instrument; original quiz should avoid treating faith as merit.",
+      "lords_days": [
+        23,
+        24
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/26-27",
+      "use": "Baptism, covenant promise and obligation, infant baptism; distinguish sign and grace signified.",
+      "lords_days": [
+        26,
+        27
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/28-29-30",
+      "use": "Passover/Lords Supper continuity and fulfillment, spiritual feeding, self-examination and admission.",
+      "lords_days": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/34",
+      "use": "Decalogue preface: deliverance before grateful obedience.",
+      "lords_days": [
+        34
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/45",
+      "use": "Necessity of prayer and grateful dependent life.",
+      "lords_days": [
+        45
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/i-belong/52",
+      "use": "Distinguish temptation and testing; perseverance, doxology and Amen as confidence.",
+      "lords_days": [
+        52
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-34-1",
+      "use": "Covenantal function of law; obedience of redeemed people.",
+      "lords_days": [
+        34
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/heidelberg-catechism/lord-day-52",
+      "use": "Prayer, church under trial and assurance of final victory.",
+      "lords_days": [
+        52
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text/96",
+      "use": "Amos: covenant privilege carries accountability, call and required response.",
+      "lords_days": [
+        4,
+        31,
+        34
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/sermons/text/97",
+      "use": "Amos: restoration fulfilled through Davids Son Jesus Christ; connect prophetic promise and new-covenant fulfillment.",
+      "lords_days": [
+        12,
+        19,
+        21
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/4",
+      "use": "Word, sermon and sacrament in worship order; distinguish author practical judgment from binding confession.",
+      "lords_days": [
+        25,
+        38
+      ]
+    },
+    {
+      "url": "https://ccifellowship.org/books/the-beauty-of-church-worship/5",
+      "use": "Worship as God addresses congregation and congregation answers; use original interaction diagram.",
+      "lords_days": [
+        38,
+        45
+      ]
+    }
+  ],
+  "cautions": [
+    "No claim of exhaustive CCI-site reading. Index discovery is not article reading.",
+    "I Belong pages contain question/answer exercises: false statements in true/false exercises are not author affirmations.",
+    "Several I Belong pages contain missing-figure placeholders; do not copy them into course as finished graphics.",
+    "Candlestand is a later declaration about charismatic movement, not one of Three Forms of Unity.",
+    "Articles and sermons have subordinate explanatory authority and require scriptural/confessional evaluation."
+  ],
+  "official_sources": [
+    {
+      "url": "https://canrc.org/the-belgic-confession",
+      "status": 200,
+      "title": "The Belgic Confession - Canadian Reformed Churches",
+      "html_sha256": "72ae7400a1153aefaceec849e5c1f66779339b6d18f4fdacc802fed6aaeb286f"
+    },
+    {
+      "url": "https://canrc.org/heidelberg-catechism",
+      "status": 200,
+      "title": "Heidelberg Catechism - Canadian Reformed Churches",
+      "html_sha256": "425d3d2b0f31b23fc2039a9696ef8cef347d5583bca7584bf55d4842087cdc44"
+    },
+    {
+      "url": "https://canrc.org/canons-of-dort",
+      "status": 200,
+      "title": "Canons of Dort - Canadian Reformed Churches",
+      "html_sha256": "517b187067742f00b61c087702d6e323ff943cc192a435aac6162af1e2206f51"
+    },
+    {
+      "url": "https://www.prca.org/",
+      "status": 429,
+      "title": "Vercel Security Checkpoint",
+      "html_sha256": "4a075a2100c28978d1d15878844988d1b999816c029dfa4f2f2c1ec3ef57dcaa"
+    }
+  ],
+  "three_forms_comparison": {
+    "shared": "All three are subordinate doctrinal standards answering to Scripture, united in the Triune God, human sin, salvation by grace in Christ through faith, church/sacraments and grateful holiness. They complement rather than replace the ecumenical creeds.",
+    "documents": [
+      {
+        "title": "Belgic Confession",
+        "date": "1561; later ecclesiastical reception and revision must be distinguished from first composition.",
+        "place": "Southern Netherlands, under Habsburg rule; do not project modern Belgium borders backwards.",
+        "genre": "37-article church confession; comprehensive doctrinal witness and public defense under persecution.",
+        "author": "Chiefly Guido de Bres; avoid portraying entire church as jointly drafting every sentence.",
+        "problem": "Show persecuted Reformed believers profess biblical Christianity and are not inherently political rebels.",
+        "architecture": "God and revelation, Trinity and creation, fall and salvation, church and sacraments, civil government, final judgment.",
+        "source": "https://canrc.org/the-belgic-confession"
+      },
+      {
+        "title": "Heidelberg Catechism",
+        "date": "1563; Frederick III preface dated January 19.",
+        "place": "Heidelberg, Electoral Palatinate within the Holy Roman Empire.",
+        "genre": "129 personal catechetical questions in 52 Lords Days; pastoral formation and public instruction.",
+        "author": "Commissioned by Elector Frederick III; Ursinus central with wider theological cooperation; traditional Olevianus attribution requires nuance.",
+        "problem": "Instruct youth and give pastors/teachers a common doctrinal teaching guide amid confessional disputes.",
+        "architecture": "Comfort; misery, deliverance, gratitude; Apostles Creed, sacraments, Decalogue and Lords Prayer.",
+        "source": "https://canrc.org/heidelberg-catechism"
+      },
+      {
+        "title": "Canons of Dort",
+        "date": "1618-1619 synod; doctrinal decisions adopted in 1619.",
+        "place": "Dordrecht, Dutch Republic; synod with foreign Reformed delegates.",
+        "genre": "Targeted doctrinal judgments against Remonstrant objections, positive exposition and rejection of errors.",
+        "problem": "Clarify election, atonement, depravity/conversion and perseverance in specific controversy.",
+        "architecture": "Five heads in four chapters because III/IV are combined; not a comprehensive catechism and not merely the later TULIP acronym.",
+        "edition_note": "CCI edition has 59 positive articles plus four rejection groups; lacks separately printed Conclusion. This is source scope, not license to invent an equivalent translation.",
+        "source": "https://canrc.org/canons-of-dort"
+      }
+    ],
+    "why_three": "Different pastoral and historical tasks require a broad public confession, a teaching catechism, and focused doctrinal judgments. Their authority rests on conformity to Scripture, not on adding three independent revelations.",
+    "topic_crosswalk": [
+      {
+        "topic": "Scripture and authority",
+        "belgic": "2-7",
+        "heidelberg": "19,21-22",
+        "dort": "I.3; III/IV.17",
+        "interpretation": "Scripture norms confession; gospel preaching is the appointed means."
+      },
+      {
+        "topic": "Justification and good works",
+        "belgic": "22-24",
+        "heidelberg": "59-64;86-91",
+        "dort": "I.7-9;III/IV.14",
+        "interpretation": "Christ is saving ground, faith receives him, good works are fruit not purchase price."
+      },
+      {
+        "topic": "Election and assurance",
+        "belgic": "16",
+        "heidelberg": "1;54",
+        "dort": "I.7-18;V.9-15",
+        "interpretation": "Do not require speculative access to the secret decree before trusting gospel promises."
+      },
+      {
+        "topic": "Sacraments and covenant children",
+        "belgic": "33-35",
+        "heidelberg": "65-82, especially74",
+        "dort": "I.17",
+        "interpretation": "Distinguish covenant administration, sacramental sign, saving union and election; baptism is not automatic regeneration."
+      },
+      {
+        "topic": "Church and means of grace",
+        "belgic": "27-32",
+        "heidelberg": "54-55;65;83-85",
+        "dort": "III/IV.17;V.14",
+        "interpretation": "Sovereign grace works through Word, sacraments, discipline and prayer, not independently of them."
+      }
+    ],
+    "covenant_cautions": [
+      "The Three Forms do not use the same detailed covenant taxonomy as Westminster 7; label later covenant-of-works/grace formulations as systematic explanation.",
+      "Do not collapse all historical covenant members into the eternally elect, nor imply baptism guarantees final salvation.",
+      "Do not equate faith as necessary receiving instrument or covenant obligation with meritorious cause.",
+      "PRCA distinctive rejection of common grace or gracious gospel offer must not be attributed to every Continental Reformed federation. Its official homepage identifies its covenant emphasis as unconditional.",
+      "Historical geography clarifies setting; it does not prove theological truth."
+    ]
+  },
+  "checked_taipei": "2026-10-23T10:15:16.915610+08:00",
+  "official_sources_limitations": [
+    "PRCA homepage returned HTTP429 security checkpoint on this run; its distinctive is prior source-based context, not a claim of successful current body retrieval.",
+    "The three CanRC canonical pages were fetched successfully, HTTP200. Correct Belgic URL includes /the-belgic-confession."
+  ]
+}

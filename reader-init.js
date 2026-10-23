@@ -1,0 +1,1 @@
+try{const p=JSON.parse(localStorage.getItem('gt52-prefs')||'{}');const r=document.documentElement;r.dataset.palette=p.palette||'cloud';r.dataset.dark=String(!!p.dark);if(p.font)r.style.setProperty('--font',p.font+'px');r.dataset.motion=p.noMotion?'off':'on';if(p.tocClosed&&innerWidth>800)r.dataset.toc='closed'}catch{}

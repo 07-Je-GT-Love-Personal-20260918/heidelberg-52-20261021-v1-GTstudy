@@ -1,0 +1,10 @@
+{
+  "edition": "heidelberg-52-20261023-v2-GTstudy",
+  "pages": 61,
+  "lessons": 52,
+  "questions": 129,
+  "deep_lessons": 52,
+  "deep_analysis_characters": 56016,
+  "source_units": 232,
+  "rendering": "All text in static HTML; CSS content-visibility for offscreen sections; no wheel/touch interception."
+}

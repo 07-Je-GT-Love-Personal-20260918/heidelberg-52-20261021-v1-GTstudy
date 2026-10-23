@@ -31,7 +31,8 @@
       "delete and undo",
       "notebook export actual downloaded JSON",
       "import actual file chooser",
-      "classroom note persistence"
+      "classroom note persistence",
+      "native double-click selection of 信心 opens toolbar; definition underline persists after reload"
     ],
     "memory": [
       "reveal flash answer",
@@ -57,5 +58,10 @@
   "limits": [
     "Device speech uses OS voice; availability varies.",
     "Preview sample validation does not prove every possible browser or hardware configuration."
-  ]
+  ],
+  "public_checks": {
+    "surge": "index52 lessons and129 questions; hash navigation; no console errors",
+    "githubPages": "forms page loads with2 comparison tables",
+    "vercel": "day52 loads without login after registering the V2 alias as a production domain"
+  }
 }

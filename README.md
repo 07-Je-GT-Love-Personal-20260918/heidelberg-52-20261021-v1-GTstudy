@@ -55,9 +55,9 @@ python -m http.server 4185 -d dist
 
 构建仅用Python标准库。静态检查先安装requirements.txt，再运行python check.py。推送main的网页源码变化触发Pages自动发布。
 
-Vercel复用现有项目，已登录官方CLI独立生产发布并配置本版别名；尚未配置Vercel与GitHub自动关联。Surge使用已登录CLI上传dist。凭据、密码、会话及个人笔记均不入库。Surge产生dist/CNAME，上传后再构建一次避免影响Pages域名。
+Vercel复用现有项目，已登录官方CLI独立生产发布并将本版域名加入现有项目的生产域名；尚未配置Vercel与GitHub自动关联。Surge使用已登录CLI上传dist。凭据、密码、会话及个人笔记均不入库。Surge产生dist/CNAME，上传后再构建一次避免影响Pages域名。
 
-更新顺序：修改源码 → 构建检查 → 浏览器验收 → 提交及三站发布 → python verify_live.py核对每站25项资源 → 更新报告 → 版本标签和源码ZIP。
+更新顺序：修改源码 → 构建检查 → 浏览器验收 → 提交及三站发布 → python verify_live.py核对每站25项资源（超时可用--retry-failed仅补查失败项） → 更新报告 → 版本标签和源码ZIP。
 
 ## 笔记迁移
 
@@ -79,3 +79,5 @@ python build.py
 
 旧版使用v1.0.0-20261021。发布页提供对应源码ZIP；保留日期、说明与摘要，便于继续开发。
 
+
+最终公开核对：三个平台各25项、合计75项资源均HTTP 200，正文与本地定稿一致。Pages发布任务39919612340成功；网页源码提交63a5f1a。Vercel版本域名已登记为现有项目生产域名，未登录浏览器可直接访问。
